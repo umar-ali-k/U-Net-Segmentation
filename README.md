@@ -3,7 +3,7 @@
 ## 1.1 Architecture
 
 
-
+![u-net-architecture](https://user-images.githubusercontent.com/19469956/71336137-c55f4300-24fa-11ea-809c-efc6d65acc09.png)
 
 
 ## UNet Architecture has 3 parts:
